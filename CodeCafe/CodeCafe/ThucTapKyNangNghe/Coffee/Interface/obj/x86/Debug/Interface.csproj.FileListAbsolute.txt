@@ -1,0 +1,148 @@
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\Interface.exe
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\Interface.pdb
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.Properties.Resources.resources
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.csproj.GenerateResource.Cache
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.exe
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.pdb
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\BUL.dll
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\PUBLIC.dll
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\DAL.dll
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\BUL.pdb
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\PUBLIC.pdb
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\DAL.pdb
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.NHANVIEN.resources
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.MENU.resources
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.DANHMUC.resources
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.exe
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.pdb
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\Interface.exe
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\Interface.pdb
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\BUL.dll
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\PUBLIC.dll
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\DAL.dll
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\BUL.pdb
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\PUBLIC.pdb
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\DAL.pdb
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.DANHMUC.resources
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.MENU.resources
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.NHANVIEN.resources
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.Properties.Resources.resources
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.csproj.GenerateResource.Cache
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.csproj.ResolveComReference.cache
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.BANAN.resources
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.EditTable.resources
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.CHUYENBAN.resources
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.ThanhToan.resources
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.ThongKeDoanhThu.resources
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.CTHD_OLD.resources
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.TONGDOANHTHU.resources
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.Home.resources
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.DANGNHAP.resources
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.DANGKY.resources
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.GopBan.resources
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.KETNOISQL.resources
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.Test.resources
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.csproj.ResolveComReference.cache
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.exe
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.pdb
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\Interface.exe
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\Interface.pdb
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\BUL.dll
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\PUBLIC.dll
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\DAL.dll
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\BUL.pdb
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\PUBLIC.pdb
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\DAL.pdb
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.BANAN.resources
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.CHUYENBAN.resources
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.CTHD_OLD.resources
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.DANGKY.resources
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.DANGNHAP.resources
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.DANHMUC.resources
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.EditTable.resources
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.GopBan.resources
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.Home.resources
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.KETNOISQL.resources
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.MENU.resources
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.NHANVIEN.resources
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.Properties.Resources.resources
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.Test.resources
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.ThanhToan.resources
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.ThongKeDoanhThu.resources
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.TONGDOANHTHU.resources
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.csproj.GenerateResource.Cache
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\Interface.exe.config
+C:\Users\QuangTanh\Downloads\ThựcTậpKỹNăngNghề_2017\ThựcTậpKỹNăngNghề_2017\SourceCode\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\Interface.exe.config
+C:\Users\QuangTanh\Downloads\ThựcTậpKỹNăngNghề_2017\ThựcTậpKỹNăngNghề_2017\SourceCode\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\Interface.exe
+C:\Users\QuangTanh\Downloads\ThựcTậpKỹNăngNghề_2017\ThựcTậpKỹNăngNghề_2017\SourceCode\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\Interface.pdb
+C:\Users\QuangTanh\Downloads\ThựcTậpKỹNăngNghề_2017\ThựcTậpKỹNăngNghề_2017\SourceCode\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\BUL.dll
+C:\Users\QuangTanh\Downloads\ThựcTậpKỹNăngNghề_2017\ThựcTậpKỹNăngNghề_2017\SourceCode\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\QuangTanh\Downloads\ThựcTậpKỹNăngNghề_2017\ThựcTậpKỹNăngNghề_2017\SourceCode\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\QuangTanh\Downloads\ThựcTậpKỹNăngNghề_2017\ThựcTậpKỹNăngNghề_2017\SourceCode\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\PUBLIC.dll
+C:\Users\QuangTanh\Downloads\ThựcTậpKỹNăngNghề_2017\ThựcTậpKỹNăngNghề_2017\SourceCode\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\DAL.dll
+C:\Users\QuangTanh\Downloads\ThựcTậpKỹNăngNghề_2017\ThựcTậpKỹNăngNghề_2017\SourceCode\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\QuangTanh\Downloads\ThựcTậpKỹNăngNghề_2017\ThựcTậpKỹNăngNghề_2017\SourceCode\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\QuangTanh\Downloads\ThựcTậpKỹNăngNghề_2017\ThựcTậpKỹNăngNghề_2017\SourceCode\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\QuangTanh\Downloads\ThựcTậpKỹNăngNghề_2017\ThựcTậpKỹNăngNghề_2017\SourceCode\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\BUL.pdb
+C:\Users\QuangTanh\Downloads\ThựcTậpKỹNăngNghề_2017\ThựcTậpKỹNăngNghề_2017\SourceCode\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\PUBLIC.pdb
+C:\Users\QuangTanh\Downloads\ThựcTậpKỹNăngNghề_2017\ThựcTậpKỹNăngNghề_2017\SourceCode\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\bin\Debug\DAL.pdb
+C:\Users\QuangTanh\Downloads\ThựcTậpKỹNăngNghề_2017\ThựcTậpKỹNăngNghề_2017\SourceCode\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\QuangTanh\Downloads\ThựcTậpKỹNăngNghề_2017\ThựcTậpKỹNăngNghề_2017\SourceCode\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.csproj.ResolveComReference.cache
+C:\Users\QuangTanh\Downloads\ThựcTậpKỹNăngNghề_2017\ThựcTậpKỹNăngNghề_2017\SourceCode\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.BANAN.resources
+C:\Users\QuangTanh\Downloads\ThựcTậpKỹNăngNghề_2017\ThựcTậpKỹNăngNghề_2017\SourceCode\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.CHUYENBAN.resources
+C:\Users\QuangTanh\Downloads\ThựcTậpKỹNăngNghề_2017\ThựcTậpKỹNăngNghề_2017\SourceCode\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.CTHD_OLD.resources
+C:\Users\QuangTanh\Downloads\ThựcTậpKỹNăngNghề_2017\ThựcTậpKỹNăngNghề_2017\SourceCode\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.DANGKY.resources
+C:\Users\QuangTanh\Downloads\ThựcTậpKỹNăngNghề_2017\ThựcTậpKỹNăngNghề_2017\SourceCode\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.DANGNHAP.resources
+C:\Users\QuangTanh\Downloads\ThựcTậpKỹNăngNghề_2017\ThựcTậpKỹNăngNghề_2017\SourceCode\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.DANHMUC.resources
+C:\Users\QuangTanh\Downloads\ThựcTậpKỹNăngNghề_2017\ThựcTậpKỹNăngNghề_2017\SourceCode\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.EditTable.resources
+C:\Users\QuangTanh\Downloads\ThựcTậpKỹNăngNghề_2017\ThựcTậpKỹNăngNghề_2017\SourceCode\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.GopBan.resources
+C:\Users\QuangTanh\Downloads\ThựcTậpKỹNăngNghề_2017\ThựcTậpKỹNăngNghề_2017\SourceCode\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.Home.resources
+C:\Users\QuangTanh\Downloads\ThựcTậpKỹNăngNghề_2017\ThựcTậpKỹNăngNghề_2017\SourceCode\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.KETNOISQL.resources
+C:\Users\QuangTanh\Downloads\ThựcTậpKỹNăngNghề_2017\ThựcTậpKỹNăngNghề_2017\SourceCode\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.MENU.resources
+C:\Users\QuangTanh\Downloads\ThựcTậpKỹNăngNghề_2017\ThựcTậpKỹNăngNghề_2017\SourceCode\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.NHANVIEN.resources
+C:\Users\QuangTanh\Downloads\ThựcTậpKỹNăngNghề_2017\ThựcTậpKỹNăngNghề_2017\SourceCode\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.Properties.Resources.resources
+C:\Users\QuangTanh\Downloads\ThựcTậpKỹNăngNghề_2017\ThựcTậpKỹNăngNghề_2017\SourceCode\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.Test.resources
+C:\Users\QuangTanh\Downloads\ThựcTậpKỹNăngNghề_2017\ThựcTậpKỹNăngNghề_2017\SourceCode\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.ThanhToan.resources
+C:\Users\QuangTanh\Downloads\ThựcTậpKỹNăngNghề_2017\ThựcTậpKỹNăngNghề_2017\SourceCode\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.ThongKeDoanhThu.resources
+C:\Users\QuangTanh\Downloads\ThựcTậpKỹNăngNghề_2017\ThựcTậpKỹNăngNghề_2017\SourceCode\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.TONGDOANHTHU.resources
+C:\Users\QuangTanh\Downloads\ThựcTậpKỹNăngNghề_2017\ThựcTậpKỹNăngNghề_2017\SourceCode\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.csproj.GenerateResource.Cache
+C:\Users\QuangTanh\Downloads\ThựcTậpKỹNăngNghề_2017\ThựcTậpKỹNăngNghề_2017\SourceCode\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.exe
+C:\Users\QuangTanh\Downloads\ThựcTậpKỹNăngNghề_2017\ThựcTậpKỹNăngNghề_2017\SourceCode\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.pdb
+C:\Users\phucc\OneDrive\Desktop\CodeCafe\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.csprojAssemblyReference.cache
+C:\Users\phucc\OneDrive\Desktop\CodeCafe\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.csproj.ResolveComReference.cache
+C:\Users\phucc\OneDrive\Desktop\CodeCafe\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.BANAN.resources
+C:\Users\phucc\OneDrive\Desktop\CodeCafe\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.CHUYENBAN.resources
+C:\Users\phucc\OneDrive\Desktop\CodeCafe\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.CTHD_OLD.resources
+C:\Users\phucc\OneDrive\Desktop\CodeCafe\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.DANGKY.resources
+C:\Users\phucc\OneDrive\Desktop\CodeCafe\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.DANGNHAP.resources
+C:\Users\phucc\OneDrive\Desktop\CodeCafe\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.DANHMUC.resources
+C:\Users\phucc\OneDrive\Desktop\CodeCafe\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.EditTable.resources
+C:\Users\phucc\OneDrive\Desktop\CodeCafe\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.GopBan.resources
+C:\Users\phucc\OneDrive\Desktop\CodeCafe\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.Home.resources
+C:\Users\phucc\OneDrive\Desktop\CodeCafe\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.KETNOISQL.resources
+C:\Users\phucc\OneDrive\Desktop\CodeCafe\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.MENU.resources
+C:\Users\phucc\OneDrive\Desktop\CodeCafe\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.NHANVIEN.resources
+C:\Users\phucc\OneDrive\Desktop\CodeCafe\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.Properties.Resources.resources
+C:\Users\phucc\OneDrive\Desktop\CodeCafe\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.Test.resources
+C:\Users\phucc\OneDrive\Desktop\CodeCafe\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.ThanhToan.resources
+C:\Users\phucc\OneDrive\Desktop\CodeCafe\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.ThongKeDoanhThu.resources
+C:\Users\phucc\OneDrive\Desktop\CodeCafe\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.TONGDOANHTHU.resources
+C:\Users\phucc\OneDrive\Desktop\CodeCafe\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.csproj.GenerateResource.cache
+C:\Users\phucc\OneDrive\Desktop\CodeCafe\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\phucc\OneDrive\Desktop\CodeCafe\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.exe
+C:\Users\phucc\OneDrive\Desktop\CodeCafe\CodeCafe\ThucTapKyNangNghe\Coffee\Interface\obj\x86\Debug\Interface.pdb
